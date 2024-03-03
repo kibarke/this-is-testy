@@ -44,6 +44,9 @@ body {
 
 .home {
     height: 100vh;
+    background: url('alexander2.png') no-repeat;
+    background-size: contain;
+    background-position: right;
     display: flex;
     align-items: center;
     padding: 0 10%;
